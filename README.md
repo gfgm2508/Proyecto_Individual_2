@@ -61,11 +61,9 @@ Con los 2 dataframe ajustados, se procedió a unirlos, creando el archico total_
 
 ## **EDA**
 
-La base final para análsis, total_victimas, quedo conformada por 664 registros correspondientes cada uno a victimas mortales de accidentes de tránsito ocurridos en CABA durate los años 2016 a 2021.
+La base final para análsis, total_victimas.xlsx, quedo conformada por 664 registros correspondientes cada uno a victimas mortales de accidentes de tránsito ocurridos en CABA durate los años 2016 a 2021.
 
-<p align="center">
-![Alt text](image-2.png)
-</p>
+La distribución de las víctimas por año, muestra un descenso significativo en los últimos 3 años de las muertes en accidentes de tránsito, de 
 
 ![Alt text](image-3.png)
 
