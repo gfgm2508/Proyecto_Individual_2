@@ -1,4 +1,4 @@
-<h1 align='center'>
+ <h1 align='center'>
  <b>PROYECTO INDIVIDUAL Nº2</b>
 </h1>
  
