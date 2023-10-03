@@ -65,4 +65,4 @@ La base final para análsis, total_victimas.xlsx, quedo conformada por 664 regis
 
 La distribución de las víctimas mortales por año, muestra un descenso significativo en los últimos 3 años, del 35% entre el periodo 2019-2021 y el periodo 2016-2018, como se muestra a continuación:
 
-<img src="../_src/assets/muertes_año.png">
+<img src="https://drive.google.com/file/d/1UmDaolt7JE2InKt1dmNbZPtyzXV_Y8VI/view?usp=drive_link">
