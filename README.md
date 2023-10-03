@@ -76,5 +76,5 @@ La distribución de las víctimas mortales por año, muestra un descenso signifi
 | Total | 664 |
 
 <p align='center'>
-<img src="https://drive.google.com/drive/folders/1otlX18COfxMDlXwAuJk94AIqYUixMsEV">
+<img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/muertes_a%C3%B1o.jpg">
 <p>
