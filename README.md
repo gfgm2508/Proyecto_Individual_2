@@ -69,9 +69,12 @@ La distribución de las víctimas mortales por año, muestra un descenso signifi
 | ------ | ------ |
 | 2016 | 130 |
 | 2017 | 133 |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+| 2018 | 141 |
+| 2019 | 92 |
+| 2020 | 75 |
+| 2021 | 93 |
+| Total | 664 |
 
+<p align='center'>
 <img src="https://drive.google.com/drive/folders/1otlX18COfxMDlXwAuJk94AIqYUixMsEV">
+<p>
