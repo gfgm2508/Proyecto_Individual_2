@@ -40,11 +40,9 @@ Acorde al requerimiento recibido, los productos a entregar son los siguientes:
 
 - `KPIs`, a saber:
 
-> - *Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior*
+    - *Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior*
  
-> - *Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior*
-
--
+    - *Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior*
 
 - `Repositorio de GitHub`, por último, se entrega todo en un repositorio de github, debidamente documentado.
 
@@ -71,6 +69,5 @@ La base final para análsis, total_victimas, quedo conformada por 664 registros 
 
 ![Alt text](image-3.png)
 
-<p align="center">
-<img src="../_src/assets/muertes_año.jpg" height="300">
-</p>
+
+<img src="../_src/muertes_año.png">
