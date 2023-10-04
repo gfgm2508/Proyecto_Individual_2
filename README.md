@@ -89,5 +89,7 @@ Construyendo un perfil característico de las víctimas, encontramos lo siguient
 
 <p align='center'>
 TABLA. EDAD PROMEDIO DE LAS VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA, ENTRE 2016-2021, DIFERENCIAS POR SEXO Y MEDIO DE TRANSPORTE
-![image](https://github.com/gfgm2508/Proyecto_Individual_2/assets/128109044/f8b5de8e-8233-4aeb-a631-78e249fc2a7d)
 </P>
+<p align='center'>
+ ![image](https://github.com/gfgm2508/Proyecto_Individual_2/assets/128109044/f8b5de8e-8233-4aeb-a631-78e249fc2a7d)
+</p>
