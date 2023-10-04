@@ -83,20 +83,11 @@ Siendo los meses de noviembe, diciembre y enero los de mayor concentración de l
 
 <p align='center'>
 <img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/muertes_mes.png">
-<p>
+</p>
 
 Construyendo un perfil característico de las víctimas, encontramos lo siguiente: en gran mayoría son hombres (509, el 77%), la edad promedio al momento del hecho de los hombres era de 39 años y de las mujeres 45 años (personas económicamente activas), el 42% conducía moto (281 personas) y el 37% eran peatones (245 personas), de los conductores de moto el 88% (281 personas) eran hombres y de los peatones, el 61% (149 hombres)
 
-SEXO	VICTIMA	AUTO	BICICLETA	CARGAS	MOTO	MOVIL	PASAJEROS	PEATON	SD
-FEMENINO	CICLISTA		47						
-	CONDUCTOR	49			37				
-	PASAJERO_ACOMPAŃANTE	39			25		74		
-	PEATON							59	
-	SD				33				
-MASCULINO	CICLISTA		37						
-	CONDUCTOR	41		39	33	24			
-	PASAJERO_ACOMPAŃANTE	35		42	27	43	44		
-	PEATON							51	
-	SD								54
+<p align='center'>
+TABLA. EDAD PROMEDIO DE LAS VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA, ENTRE 2016-2021, DIFERENCIAS POR SEXO Y MEDIO DE TRANSPORTE
 ![image](https://github.com/gfgm2508/Proyecto_Individual_2/assets/128109044/f8b5de8e-8233-4aeb-a631-78e249fc2a7d)
-
+</P>
