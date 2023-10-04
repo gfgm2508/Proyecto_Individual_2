@@ -79,8 +79,10 @@ La distribución de las víctimas mortales por año, muestra un descenso signifi
 <img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/muertes_a%C3%B1o.jpg">
 <p>
 
-Siendo los meses de noviembe, diciembre y enero los de mayor concentración de las muertes, coincidencialmente época de verano, vacaciones.
+Siendo los meses de noviembe, diciembre y enero los de mayor concentración de las muertes, coincidencialmente época de verano, vacaciones:
 
 <p align='center'>
 <img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/muertes_mes.png">
 <p>
+
+Construyendo un perfil característico de las víctimas, encontramos lo siguiente: en gran mayoría son hombres (509, el 77%), la edad promedio al momento del hecho de los hombnres era de 39 años y de las mujeres 45 años, personas económicamente activas, el 42% conducía moto (281 personas) y el 37% eran peatones (245 personas)
