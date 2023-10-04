@@ -88,26 +88,17 @@ Siendo los meses de noviembe, diciembre y enero los de mayor concentración de l
 Construyendo un perfil característico de las víctimas, encontramos lo siguiente: en gran mayoría son hombres (509, el 77%), la edad promedio al momento del hecho de los hombres era de 39 años y de las mujeres 45 años (personas económicamente activas), el 42% conducía moto (281 personas) y el 37% eran peatones (245 personas), de los conductores de moto el 88% (281 personas) eran hombres y de los peatones, el 61% lo eran (149 personas)
 
 <p align='center'>
-TABLA. EDAD PROMEDIO DE LAS VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA, ENTRE 2016-2021, DIFERENCIAS POR SEXO Y MEDIO DE TRANSPORTE
+TABLA 1. TOTAL VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA, ENTRE 2016-2021, DIFERENCIAS POR SEXO, ROL Y MEDIO DE TRANSPORTE
+</P>
+<p align='center'>
+<img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/TABLA02.png">
+</p>
+
+<p align='center'>
+TABLA 2. EDAD PROMEDIO DE LAS VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA, ENTRE 2016-2021, DIFERENCIAS POR SEXO, ROL Y MEDIO DE TRANSPORTE
 </P>
 <p align='center'>
 <img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/TABLA01.png">
 </p>
 
 De la tabla anterior, se puede notar que las víctimas en moto eran muy jóvenes, edades entre 25 y 37 años y los peatones, personas en promedio mayores de 50 años. Dos hechos a tener presente al momento de tomar acciones para prevenir y disminuir los accidentes viales.
-
-SEXO	VICTIMA	AUTO	BICICLETA	CARGAS	MOTO	MOVIL	PASAJEROS	PEATON	SD	TOTAL
-FEMENINO	CICLISTA		7							7
-	CONDUCTOR	5			15					20
-	PASAJERO_ACOMPAŃANTE	10			18		3			31
-	PEATON							96		96
-	SD				1					1
-	TOTAL	15	7	0	34	0	3	96	0	155
-MASCULINO	CICLISTA		21							21
-	CONDUCTOR	58		3	231	1				293
-	PASAJERO_ACOMPAŃANTE	17		4	16	2	2			41
-	PEATON							149		149
-	SD								5	5
-	TOTAL	75	21	7	247	3	2	149	5	509
-TOTAL GENERAL		90	28	7	281	3	5	245	5	664
-![image](https://github.com/gfgm2508/Proyecto_Individual_2/assets/128109044/73482836-f2f3-4deb-9426-3912f368e2a2)
