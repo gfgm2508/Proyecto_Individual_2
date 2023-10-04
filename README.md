@@ -61,11 +61,10 @@ Con los 2 dataframe ajustados, se procedió a unirlos, creando el archico total_
 
 ## **EDA**
 
-La base final para análsis, total_victimas.xlsx, quedo conformada por 664 registros correspondientes cada uno a victimas mortales de accidentes de tránsito ocurridos en CABA durante los años 2016 a 2021.
+La base final para análsis, total_victimas.xlsx, quedo conformada por 664 registros correspondientes cada uno a una víctima mortal en accidentes de tránsito, ocurridos en CABA durante los años 2016 a 2021.
 
 La distribución de las víctimas mortales por año, muestra un descenso significativo en los últimos 3 años, del 35% entre el periodo 2019-2021 y el periodo 2016-2018, como se muestra a continuación:
 
-<p align='center'>
 | Año | Muertes |
 | ------ | ------ |
 | 2016 | 130 |
@@ -75,8 +74,13 @@ La distribución de las víctimas mortales por año, muestra un descenso signifi
 | 2020 | 75 |
 | 2021 | 93 |
 | Total | 664 |
-</p>
 
 <p align='center'>
 <img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/muertes_a%C3%B1o.jpg">
+<p>
+
+Siendo los meses de noviembe, diciembre y enero los de mayor concentración de las muertes, coincidencialmente época de verano, vacaciones.
+
+<p align='center'>
+<img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/muertes_mes.png">
 <p>
