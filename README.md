@@ -63,7 +63,7 @@ Con los 2 dataframe ajustados, se procedió a unirlos, creando el archico total_
 
 La base final para análsis, total_victimas.xlsx, quedo conformada por 664 registros correspondientes cada uno a una víctima mortal en accidentes de tránsito, ocurridos en CABA durante los años 2016 a 2021.
 
-La distribución de las víctimas mortales por año, muestra un descenso significativo en los últimos 3 años, del 35% entre el periodo 2019-2021 y el periodo 2016-2018, como se muestra a continuación:
+La distribución de las víctimas mortales por año, muestra un descenso significativo en los últimos 3 años, del 35% entre el periodo 2019-2021 y el periodo 2016-2018, dicha diisminución puede ser debida a la pandemia como se muestra a continuación:
 
 | Año | Muertes |
 | ------ | ------ |
@@ -114,5 +114,7 @@ De la tabla anterior, se puede notar que las víctimas en moto eran muy jóvenes
 </p>
 
 <p align='center'>
-<img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/muertes_comuna.png">
+<img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/muertes_calle.png">
 </p>
+
+Aunque en las avenidas se presentán la mayorías de los siniestros viales, no deja de llamar la atención el 9.2% de accidentes presentados en la Gral. Paz, una vía conocida por al alto tráfico vehicular, con tramos que pueden albergar hasta 300.000 vehículos por día.
