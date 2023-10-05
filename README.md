@@ -63,7 +63,7 @@ Con los 2 dataframe ajustados, se procedió a unirlos, creando el archico total_
 
 La base final para análsis, total_victimas.xlsx, quedo conformada por 663 registros correspondientes cada uno a una víctima mortal en accidentes de tránsito, ocurridos en CABA durante los años 2016 a 2021.
 
-La distribución de las víctimas mortales por año, muestra un descenso significativo en los últimos 3 años, del 35% entre el periodo 2019-2021 y el periodo 2016-2018, dicha diisminución puede ser debida a la pandemia como se muestra a continuación:
+La distribución de las víctimas mortales por año, muestra un descenso significativo en los últimos 3 años, del 35% entre el periodo 2019-2021 y el periodo 2016-2018, coioncidencialmente el periodo 2019-2021 fue el tiempo de la pandemia, por lo que esa disminución puede ser como consecuencia de las normas de comportamiento determinadas en su momento. A continuación se muestra la tabla resumen:
 
 | Año | Muertes |
 | ------ | ------ |
