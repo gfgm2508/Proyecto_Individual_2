@@ -117,4 +117,4 @@ De la tabla anterior, se puede notar que las víctimas en moto eran muy jóvenes
 <img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/muertes_calle.png">
 </p>
 
-Aunque en las avenidas se presentán la mayorías de los siniestros viales, no deja de llamar la atención el 9.2% de accidentes presentados en la Gral. Paz, una vía conocida por al alto tráfico vehicular, con tramos que pueden albergar hasta 300.000 vehículos por día.
+Aunque en las avenidas se presentán la mayorías de los siniestros viales, no deja de llamar la atención el 9% de accidentes presentados en la Gral. Paz, una vía conocida por al alto tráfico vehicular, con tramos que pueden albergar hasta 300.000 vehículos por día.
