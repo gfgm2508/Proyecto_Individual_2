@@ -96,8 +96,6 @@ TABLA 1. TOTAL VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA, ENTRE 2016-2021, DIFER
 
 Construyendo un perfil para caracterizar a las diferentes víctimas, la siguiente tabla puede brindar información relevante:
 
-encontramos lo siguiente: en gran mayoría son hombres (509, el 77%), la edad promedio al momento del hecho de los hombres era de 39 años y de las mujeres 45 años (personas económicamente activas), el 42% conducía moto (281 personas) y el 37% eran peatones (245 personas), de los conductores de moto el 88% (281 personas) eran hombres y de los peatones, el 61% lo eran (149 personas).
-
 <p align='center'>
 TABLA 1. TOTAL VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA, ENTRE 2016-2021, DIFERENCIAS POR SEXO, ROL Y MEDIO DE TRANSPORTE
 </P>
