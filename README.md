@@ -109,21 +109,19 @@ TABLA 1. TOTAL VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA, ENTRE 2016-2021, DIFER
 - Al respecto, el ser peatones es el rol más importante entre las causas de muerte entre las mujeres, el 62% de las víctimas mujeres eran peatones (96 de 155), y el segundo, el ser pasajeras, el 20% (31 de 155), principalmente de motos.
 - Entre los hombres, el rol que tenían la mayoría de las víctima al momento del accidente era de conductor, bien sea de moto, auto, carga, móvil, el 58% (293 de 509).
 
-<p align='center'>
-<img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/muertes_victima.png">
-</p>
-
 Relizando un análisis por ciclos de vida, se ve lo siguiente:
 
 <p align='center'>
 <img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/muertes_edad.png">
 </p>
 
+El 3% del total de muertes es comprendido por los infantes, niños y adolescentes, que aunque no es muy alto, es para tener presente, generando comunicaciones para reforzar el uso adecuado de los vehículos (cantidad de pasajeros), el uso de los sistemas de seguridad (cinturos de seguridad, cascos, etc), buen estado de los vehículos (frenos, luces, airbag, motor, etc), respeto de las señales de tránsito, buen estado de las vías (pavimentadas, señalización, limpieza de la calzada, etc).
+
 <p align='center'>
-TABLA 2. EDAD PROMEDIO DE LAS VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA, ENTRE 2016-2021, DIFERENCIAS POR SEXO, ROL Y MEDIO DE TRANSPORTE
+TABLA 2. VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA POR CICLO DE VIDA, ENTRE 2016-2021.
 </P>
 <p align='center'>
-<img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/TABLA01.png">
+<img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/TABLA04.png">
 </p>
 
 De la tabla anterior, se puede notar que las víctimas en moto eran muy jóvenes, edades entre 25 y 37 años y los peatones, personas en promedio mayores de 50 años. Dos hechos a tener presente al momento de tomar acciones para prevenir y disminuir los accidentes viales, hacia los jóvenes pueden ser campañas recalcando el importancia del respeto de las normas de tránsito (semáforos en rojo, límites de velocidad) y de seguridad vial (cascos, buen estado del vehículo, etc) y entre los adultos, igualmente, el respeto de las normas de tránsito: cruzar las vías por las zonas demarcadas, respetar los semáforos en rojo, entre otras y algunas respecto a la seguridad personal, como no andar solo por vías muy concurridas, usar los puentes peatonales, evitar cruzar vías en horas de la noche, etc.
