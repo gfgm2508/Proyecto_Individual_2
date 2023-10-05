@@ -57,11 +57,11 @@ Lo primero que se hizo fue transformar las dos hojas de datos en dataframe de py
 
 Al df_victimas se le realizóp un análisis descriptivo para detectar valores atípicos, encontrando que el campo edad tenía 53 registros sin dato de edad, por lo que se decidió eliminar dichos registros y posteriormente, se convirtió el campo en entero para poder procesarlo adecuadamente, se renombró el campo ID_hechos como ID para poder realizar el cruce con el df_hechos. Al df_hechos, además de lo nombrado ya, no se le realizaron más depuracines o ajustes.
 
-Con los 2 dataframe ajustados, se procedió a unirlos, creando el archico total_victimas.xlsx, eliminando una serie de variables innecesarias, realizando búsqueda/eliminación de duplicados y ajuste de formatos de algunos campos.
+Con los 2 dataframe ajustados, se procedió a unirlos, creando el archivo victimas.xlsx, eliminando una serie de variables innecesarias, realizando búsqueda/eliminación de duplicados y ajuste de formatos de algunos campos.
 
 ## **EDA**
 
-La base final para análsis, victimas.xlsx, quedo conformada por 663 registros correspondientes cada uno a una víctima mortal en accidentes de tránsito, ocurridos en CABA durante los años 2016 a 2021.
+La base final para análsis, victimas.xlsx, quedo conformada por 663 registros correspondientes cada uno a una víctima mortal en accidentes de tránsito, ocurridos en CABA durante los años 2016 a 2021 y se generarn dos variables nuevas: ciclo_vida (reagrupamiento de la variable edad, en los grupos: infantes (1 a 5 años), niños (6 a 11 años). adolescenten (12 a 17 años), jóvenes (18 a 28 años), adultos (29 a 59 años) y ancianos (mayores de 50 años)) y horario (reagrupamiento de la variable HH en los grupos: mañana (6 a 12), tarde (12 a 18) y noche (18 a 6)), necesarias para un mejor análisis de los datos.
 
 La distribución de las víctimas mortales por año, muestra un descenso significativo en los últimos 3 años, del 35% entre el periodo 2019-2021 y el periodo 2016-2018, coioncidencialmente el periodo 2019-2021 fue el tiempo de la pandemia, por lo que esa disminución puede ser como consecuencia de las normas de comportamiento determinadas en su momento. A continuación se muestra la tabla y la gráfica resumen:
 
@@ -85,7 +85,7 @@ Siendo los meses de noviembe, diciembre y enero los de mayor concentración de l
 <img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/muertes_mes.png">
 </p>
 
-Y analizando por el vehículo donde se transportaba la víctima, los meses de diciembre y enero son los que presentan mayor cantidad de accidentes mortales en moto, 73 de 280, que representan el 26% de las muertes en moto. Esto es una alerta para las autoridades, ejerciendo un mayor control a los motociclistas en dichos meses y tener en buen estado las vías más frecuentadas pore ellos.
+Y analizando por el vehículo donde se transportaba la víctima, los meses de diciembre y enero son los que presentan mayor cantidad de accidentes mortales en moto, 73 de 280, que representan el 26% de las muertes en moto. Esto es una alerta para las autoridades respectivas, para que ejerzan un mayor control a los motociclistas en dicho periodo y que tengan en buen estado las vías más frecuentadas por ellos.
 
 <p align='center'>
 TABLA 1. TOTAL VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA, ENTRE 2016-2021, DIFERENCIAS POR MES Y MEDIO DE TRANSPORTE
