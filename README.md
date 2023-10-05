@@ -85,7 +85,7 @@ Siendo los meses de noviembe, diciembre y enero los de mayor concentración de l
 <img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/muertes_mes.png">
 </p>
 
-Y analizando por el vehículo donde se transportaba la víctima, los meses de diciembre y enero son los que presentan mayor cantidad de accidentes mortales en moto, 73 de 280, que representan el 26% de las muertes en moto.
+Y analizando por el vehículo donde se transportaba la víctima, los meses de diciembre y enero son los que presentan mayor cantidad de accidentes mortales en moto, 73 de 280, que representan el 26% de las muertes en moto. Esto es una alerta para las autoridades, ejerciendo un mayor control a los motociclistas en dichos meses y tener en buen estado las vías más frecuentadas pore ellos.
 
 <p align='center'>
 TABLA 1. TOTAL VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA, ENTRE 2016-2021, DIFERENCIAS POR MES Y MEDIO DE TRANSPORTE
@@ -94,11 +94,9 @@ TABLA 1. TOTAL VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA, ENTRE 2016-2021, DIFER
 <img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/TABLA03.png">
 </p>
 
-Construyendo un perfil característico de las víctimas, encontramos lo siguiente: en gran mayoría son hombres (509, el 77%), la edad promedio al momento del hecho de los hombres era de 39 años y de las mujeres 45 años (personas económicamente activas), el 42% conducía moto (281 personas) y el 37% eran peatones (245 personas), de los conductores de moto el 88% (281 personas) eran hombres y de los peatones, el 61% lo eran (149 personas).
+Construyendo un perfil para caracterizar a las diferentes víctimas, la siguiente tabla puede brindar información relevante:
 
-<p align='center'>
-<img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/muertes_victima.png">
-</p>
+encontramos lo siguiente: en gran mayoría son hombres (509, el 77%), la edad promedio al momento del hecho de los hombres era de 39 años y de las mujeres 45 años (personas económicamente activas), el 42% conducía moto (281 personas) y el 37% eran peatones (245 personas), de los conductores de moto el 88% (281 personas) eran hombres y de los peatones, el 61% lo eran (149 personas).
 
 <p align='center'>
 TABLA 1. TOTAL VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA, ENTRE 2016-2021, DIFERENCIAS POR SEXO, ROL Y MEDIO DE TRANSPORTE
@@ -106,6 +104,18 @@ TABLA 1. TOTAL VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA, ENTRE 2016-2021, DIFER
 <p align='center'>
 <img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/TABLA02.png">
 </p>
+
+- La mayoría de las víctimas son hombres (el 77%, 509 de 663 víctimas).
+- El 42% (281 de 663) perdió la vida en un accidente involucrada una moto, de los cuales el 88% eran hombres (247 de 281) y casi la totalidad eran los conductores de la moto (231 de 247, motociclistas hombres).
+- El 37% de las víctimas eran peatones (245 de 663), de los cuales el 61% eran hombres y el 39% mujeres.
+- Al respecto, el ser peatones es el rol más importante entre las causas de muerte entre las mujeres, el 62% de las víctimas mujeres eran peatones (96 de 155), y el segundo, el ser pasajeras, el 20% (31 de 155), principalmente de motos.
+- Entre los hombres, el rol que tenían la mayoría de las víctima al momento del accidente era de conductor, bien sea de moto, auto, carga, móvil, el 58% (293 de 509).
+
+<p align='center'>
+<img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/muertes_victima.png">
+</p>
+
+
 
 De la tabla 1, resalta el hecho que el 53% de las mujeres que fallecieron en un accidente de tránsito involucrada una moto eran pasajeras y que el 67% de las mujeres fallecidas en accidente con auto involucrado también eran pasajeras, lo que pueden señalar una alerta sobre las sistemas de seguridad en dichos vehículos (por ejemplo los airbag) y las atenciones de seguridad por parte de los pasajeros de los mismos: uso de casco, uso de cinturón de seguridad, buen mantenimiento a los vehículos (llantas, frenos, etc).
 
