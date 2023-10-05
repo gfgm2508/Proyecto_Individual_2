@@ -115,8 +115,6 @@ TABLA 1. TOTAL VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA, ENTRE 2016-2021, DIFER
 <img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/muertes_victima.png">
 </p>
 
-
-
 De la tabla 1, resalta el hecho que el 53% de las mujeres que fallecieron en un accidente de tránsito involucrada una moto eran pasajeras y que el 67% de las mujeres fallecidas en accidente con auto involucrado también eran pasajeras, lo que pueden señalar una alerta sobre las sistemas de seguridad en dichos vehículos (por ejemplo los airbag) y las atenciones de seguridad por parte de los pasajeros de los mismos: uso de casco, uso de cinturón de seguridad, buen mantenimiento a los vehículos (llantas, frenos, etc).
 
 <p align='center'>
