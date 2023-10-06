@@ -140,6 +140,13 @@ Un dato no menor, ea el hecho que en las 15 comunas de CABA ocurrieron siniestro
 <img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/muertes_calle.png">
 </p>
 
+<p align='center'>
+TABLA 5. TOTAL VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA, ENTRE 2016-2021, POR EL TIPO DE CALLE DEL SINIESTRO
+</P>
+<p align='center'>
+<img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/TABLA07.png">
+</p>
+
 Aunque en las avenidas se presentán la mayorías de los siniestros viales, no deja de llamar la atención el 9% de accidentes presentados en la Gral. Paz, una vía conocida por al alto tráfico vehicular, con tramos que pueden albergar hasta 300.000 vehículos por día.
 
 Relizando un análisis por ciclos de vida, se ve lo siguiente:
@@ -151,7 +158,7 @@ Relizando un análisis por ciclos de vida, se ve lo siguiente:
 El 3% del total de muertes es comprendido por los infantes, niños y adolescentes, que aunque no es muy alto, es para tener presente, generando comunicaciones para reforzar el uso adecuado de los vehículos (cantidad de pasajeros), el uso de los sistemas de seguridad (cinturos de seguridad, cascos, etc), buen estado de los vehículos (frenos, luces, airbag, motor, etc), respeto de las señales de tránsito, buen estado de las vías (pavimentadas, señalización, limpieza de la calzada, etc).
 
 <p align='center'>
-TABLA 5. VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA POR CICLO DE VIDA, ENTRE 2016-2021.
+TABLA 6. VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA POR CICLO DE VIDA, ENTRE 2016-2021.
 </P>
 <p align='center'>
 <img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/TABLA04.png">
