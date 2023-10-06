@@ -147,10 +147,17 @@ Analizando los siniestros por el tipo de vía en la que se presentaron los casos
 <img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/muertes_calle.png">
 </p>
 
-
-
 <p align='center'>
 TABLA 5. TOTAL VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA, ENTRE 2016-2021, POR EL TIPO DE CALLE DEL SINIESTRO
+</P>
+<p align='center'>
+<img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/TABLA07.png">
+</p>
+
+Sobre las avenidas, los accidentes mortales se presentan en la noche y la mañana, en una muy alta proporción, auqnue en todos los tipos de vía, los accidentes mortáles se presentan principalmente en la noche (ver tabla 6)
+
+<p align='center'>
+TABLA 6. TOTAL VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA, ENTRE 2016-2021, POR EL TIPO DE CALLE  JORNADA DEL ACCIDENTE Y COMUNA
 </P>
 <p align='center'>
 <img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/TABLA07.png">
@@ -162,10 +169,10 @@ TABLA 5. TOTAL VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA, ENTRE 2016-2021, POR E
 <img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/muertes_edad.png">
 </p>
 
-Del total de muertes, el 3% corresponde a infantes, niños y adolescentes, que aunque no es muy volumen alto, es para tener presente, pues esto puede llevar a cuestionar los sistemas de seguridad de los vehículos y motos, el respeto de las señales y normas de tránsito por parte de conductores y petaones, el estado de las vías, incluso si las velocidades máximas permitidas en ciertos tramos de las vías es el pertinente o no. Otras evidencias, es el alto porcentaje de víctimas en edad productiva (jóvenes y adultos, entre 18 y 28 años), el 75% de los casos (ver tabla 6).
+Del total de muertes, el 3% corresponde a infantes, niños y adolescentes, que aunque no es muy volumen alto, es para tener presente, pues esto puede llevar a cuestionar los sistemas de seguridad de los vehículos y motos, el respeto de las señales y normas de tránsito por parte de conductores y petaones, el estado de las vías, incluso si las velocidades máximas permitidas en ciertos tramos de las vías es el pertinente o no. Otras evidencias, es el alto porcentaje de víctimas en edad productiva (jóvenes y adultos, entre 18 y 28 años), el 75% de los casos (ver tabla 7).
 
 <p align='center'>
-TABLA 6. VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA POR CICLO DE VIDA, ENTRE 2016-2021.
+TABLA 7. VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA POR CICLO DE VIDA, ENTRE 2016-2021.
 </P>
 <p align='center'>
 <img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/TABLA04.png">
@@ -173,10 +180,10 @@ TABLA 6. VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA POR CICLO DE VIDA, ENTRE 2016
 
 De la tabla anterior, se puede notar que del total de víctimas mujeres, el 80%, 124 de 155, eran adultas y ancianas (personas mayores de 29 años), mientras que el 62% de las víctimas hombres, eran jóvenes y adultos (entre 29 y 59 años), que viajaban en moto mayotitariamente. Adicionalmente, podemos observar que el mayor porcentaje de mujeres fallecidas en accidentes viales eran peatonas, mayores de 29 años (adultas y ancianas).
 
-La tabla 7 muestra la distribución de las muertes por sexo, ciclo de vida y horario del accidente, es interesante ver que entre las mujeres no hay diferenciación entre horarios, lo que indica que una mujer puede morir en un accidente de tránsito en cualquier jornada del día, caso contrario los hombres, que del total de fallecidos el 50% muere en accidentes ocurridos en la noche, entre 6pm y 6am, y por ciclos de vida, los hombres adultos son los de mayor probabilidad de morir a cualquier hora.
+La tabla 8 muestra la distribución de las muertes por sexo, ciclo de vida y horario del accidente, es interesante ver que entre las mujeres no hay diferenciación entre horarios, lo que indica que una mujer puede morir en un accidente de tránsito en cualquier jornada del día, caso contrario los hombres, que del total de fallecidos el 50% muere en accidentes ocurridos en la noche, entre 6pm y 6am, y por ciclos de vida, los hombres adultos son los de mayor probabilidad de morir a cualquier hora.
 
 <p align='center'>
-TABLA 7. VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA POR SEXO, CICLO DE VIDA Y HORARIO DEL ACCIDENTE, ENTRE 2016-2021.
+TABLA 8. VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA POR SEXO, CICLO DE VIDA Y HORARIO DEL ACCIDENTE, ENTRE 2016-2021.
 </P>
 <p align='center'>
 <img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/TABLA08.png">
@@ -185,7 +192,7 @@ TABLA 7. VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA POR SEXO, CICLO DE VIDA Y HOR
 Por comunas, la tabla 8 revela que el mayor volumen de muertes viales de adultos, se da en la comuna 1, que en los jóvenes en la comuna 4, y en los ancianos, en las comunas 1 y 9. 
 
 <p align='center'>
-TABLA 7. VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA POR CICLO DE VIDA Y COMUNA EN LA QUE SE PRESENTÓ EL ACCIDENTE, ENTRE 2016-2021.
+TABLA 9. VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA POR CICLO DE VIDA Y COMUNA EN LA QUE SE PRESENTÓ EL ACCIDENTE, ENTRE 2016-2021.
 </P>
 <p align='center'>
 <img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/TABLA09.png">
