@@ -79,7 +79,14 @@ La distribución de las víctimas mortales por año, muestra un descenso signifi
 <img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/muertes_a%C3%B1o.jpg">
 <p>
 
-Siendo los meses de noviembe, diciembre y enero los de mayor concentración de las muertes, coincidencialmente época de verano, vacaciones:
+<p align='center'>
+TABLA 1. TOTAL VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA, POR AÑO Y MEDIO DE TRANSPORTE
+</P>
+<p align='center'>
+<img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/TABLA05.png">
+</p>
+
+Siendo los meses de noviembre, diciembre y enero los de mayor concentración de las muertes, coincidencialmente época de verano, vacaciones:
 
 <p align='center'>
 <img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/muertes_mes.png">
@@ -140,6 +147,7 @@ De la tabla anterior, se puede notar que de las víctimas en moto el 50% eran ad
 </p>
 
 Aunque en las avenidas se presentán la mayorías de los siniestros viales, no deja de llamar la atención el 9% de accidentes presentados en la Gral. Paz, una vía conocida por al alto tráfico vehicular, con tramos que pueden albergar hasta 300.000 vehículos por día.
+
 
 
 
