@@ -1,4 +1,4 @@
-6 <h1 align='center'>
+<h1 align='center'>
  <b>PROYECTO INDIVIDUAL Nº2</b>
 </h1>
  
@@ -148,8 +148,7 @@ Analizando los siniestros por el tipo de vía en la que se presentaron los casos
 </p>
 
 <p align='center'>
-TABLA 5. TOTAL VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA, ENTRE 2016-2021, POR EL TIPO DE CALLE DEL SINIESTRO
-</P>
+TABLA 5. TOTAL VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA, ENTRE 2016-2021, POR EL TIPO DE CALLE DEL SINIESTRO</P>
 <p align='center'>
 <img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/TABLA07.png">
 </p>
@@ -180,10 +179,22 @@ TABLA 7. VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA POR SEXO, CICLO DE VIDA Y HOR
 <img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/TABLA08.png">
 </p>
 
+Por comunas, la tabla 8 revela que el mayor volumen de muertes viales de adultos, se da en la comuna 1, que en los jóvenes en la comuna 4, y en los ancianos, en las comunas 1 y 9. 
+
+<p align='center'>
+TABLA 7. VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA POR CICLO DE VIDA Y COMUNA EN LA QUE SE PRESENTÓ EL ACCIDENTE, ENTRE 2016-2021.
+</P>
+<p align='center'>
+<img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/TABLA09.png">
+</p>
+
 De lo anterior, se pueden sacar recomendaciones importantes:
 
 - La población más vulnerable a morir en un accidente de tránsito son los hombres, no importanto el rol que desempeñen en el accidente, y con mayor probabilidad si conducen una moto, por lo que la tarea de las autoridades se debe intensificar en esa población, ejerciendo mayores controles a los motociclistas, con retenes de control, obligatoriedad de los sistemas de seguridad personal como el uso del casco, chalecos reflectivos, exigencia de una revisión tecnico-mecánico periódica a las motos, cursos de reforzamiento sobre las leyes de tránsito, tener en buen estado y bien señaladas las vías principales y alternas y con semáforos funcionando al 100% siempre.
 - Entre las mujeres, preocupa la alta tasa de muertes como peatonas, por lo que se debe intensificar jornadas pedagógicas para mejorar el comportamiento de ellas y todos, como el respeto de los semáforos, cruzar las vías solo por las zonas delimitadas y los puentes peatonales, evitar camimar cerca a vías de alto tráfico en horas de la noche y si es necesario hacerlo, llevar elementos de serguridad como chalecos reflectivos y para los mayores de edad, ir acompañados.
+
+
+
 
 
 
