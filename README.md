@@ -122,13 +122,13 @@ A continuación ae presenta un análisis por algunas carecterísticas particular
 
 **Componente georreferencial**
 
-Georreferenciando los accidentes de tránsito mortales, se detectaronn 4 zonas de alta concentración de accidentes fatales, la más grande la zona e la que colindan las comunas 1 y 3, la zona occidental de la comuna 4, la parte centrel de la comuna 7 y la zona noroccidental de la comuna 9, otra alerta para las autoridades en su tarea de disminuir la accidentalidad vehicular así como la mortalidad derivada, sería recomendable visitar dichas áreas para verificar el estado de las vías, la calidad y oportunidad de las señales de tránsito, la semaforización, entre otras:
+Georreferenciando los accidentes de tránsito mortales, se detectaronn 4 zonas de alta concentración de accidentes fatales, la más grande la zona e la que colindan las comunas 1 y 3, la zona occidental de la comuna 4, la parte centrel de la comuna 7 y la zona noroccidental de la comuna 9, otra alerta para las autoridades en su tarea de disminuir la accidentalidad vehicular así como la mortalidad derivada, sería recomendable visitar dichas áreas para verificar el estado de las vías, la calidad y oportunidad de las señales de tránsito, la semaforización, el estado de puentes vehocuilares y peatonales, entre otras:
 
 <p align='center'>
 <img src="_src/assets/mapa.JPG">
 </p>
 
-Presentado el total por comunas, es evidente el alto volumen de casos en las comunas 1, 4 y 9
+Presentando el total de vícitmas por comuna en la que se presentó el siniestro, es evidente el alto volumen de casos en las comunas 1, 4 y 9, que albergan el 35% de los casos (232 de 663). Adicionalmente, las comunas 1, 4 y 9 tienen el 38% de las muertes de peatones (94 de 245), las comunas 1, 4, 9, 8 y 7, el 49% de las muertes en moto (137 de 280 )y la comuna 9, tiene el 22% de las muertes en auto (20 de 90)(ver tabla 4).
 
 <p align='center'>
 <img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/muertes_comuna.png">
@@ -141,7 +141,7 @@ TABLA 4. TOTAL VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA, ENTRE 2016-2021, DIFER
 <img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/TABLA06.png">
 </p>
 
-Un dato no menor, ea el hecho que en las 15 comunas de CABA ocurrieron siniestros viales con víctimas mortales, siendo las comunas 1, 4 y 9 con el mayor volumen de víctimas, con alrededor del 35%. Adicionalmente, las comunas 1, 4 y 9 tienen el 38% de las muertes de peatones, las comunas 1, 4, 9, 8 y 7, el 49% de las muertes en moto y la comuna 9, tiene el 22% de las muertes en auto. Las autoridades locales deben tomas medidas al respecto, evaluando el estado de las vías, puentes, intersecciones, la señalización de vías, la semaforización, si no se hace, ejercer controles de velocidad en tramos de las vías determinados, y tambien velar porque los conductores de vehículos tengan en buen estado sus vehículos y cumplan con las normas de tránsito y de seguridad. Además de campañas educativas a los peatones, para que cuiden las normas de tránsito y su seguridad personal. así como del cuidado del anciano, que son la mayoría de las víctimas peatones. 
+Analizando los siniestros por el tipo de vía en la que se presentaron los casos, las avenidas registran la mayorías de los siniestros viales, pero no deja de llamar la atención el 9% de accidentes presentados en la Gral. Paz, una vía conocida por al alto tráfico vehicular, con tramos que pueden albergar hasta 300.000 vehículos por día y al repasar el mapa, se ve con claridad sectores de dicha vía con múltiples casos, como son los sectores General San Martín, Ciudadela y Viila Madero
 
 <p align='center'>
 <img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/muertes_calle.png">
@@ -154,15 +154,13 @@ TABLA 5. TOTAL VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA, ENTRE 2016-2021, POR E
 <img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/TABLA07.png">
 </p>
 
-Aunque en las avenidas se presentán la mayorías de los siniestros viales, no deja de llamar la atención el 9% de accidentes presentados en la Gral. Paz, una vía conocida por al alto tráfico vehicular, con tramos que pueden albergar hasta 300.000 vehículos por día.
-
-Relizando un análisis por ciclos de vida, se ve lo siguiente:
+**Ciclos de vida**
 
 <p align='center'>
 <img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/muertes_edad.png">
 </p>
 
-El 3% del total de muertes es comprendido por los infantes, niños y adolescentes, que aunque no es muy alto, es para tener presente, generando comunicaciones para reforzar el uso adecuado de los vehículos (cantidad de pasajeros), el uso de los sistemas de seguridad (cinturos de seguridad, cascos, etc), buen estado de los vehículos (frenos, luces, airbag, motor, etc), respeto de las señales de tránsito, buen estado de las vías (pavimentadas, señalización, limpieza de la calzada, etc).
+Del total de muertes, el 3% corresponde a infantes, niños y adolescentes, que aunque no es muy volumen alto, es para tener presente, pues esto puede llevar a cuestionar los sistemas de seguridad de los vehículos y motos, el respeto de las señales y normas de tránsito por parte de conductores y petaones, el estado de las vías, incluso si las velocidades máximas permitidas en ciertos tramos de las vías es el pertinente o no. Otras evidencias, es el alto porcentaje de víctimas en edad productiva (jóvenes y adultos, entre 18 y 28 años), el 75% de los casos (ver tabla 6).
 
 <p align='center'>
 TABLA 6. VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA POR CICLO DE VIDA, ENTRE 2016-2021.
@@ -171,7 +169,7 @@ TABLA 6. VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA POR CICLO DE VIDA, ENTRE 2016
 <img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/TABLA04.png">
 </p>
 
-De la tabla anterior, se puede notar que de las víctimas en moto el 50% eran adolescentes y jóvenes, entre 12 y 28 años y de las víctimas peatones, el 84% eran adultos y ancianos, mayores de 29 años. Dos hechos a tener presente al momento de tomar acciones para prevenir y disminuir los accidentes viales, hacia los jóvenes pueden ser campañas recalcando el importancia del respeto de las normas de tránsito (semáforos en rojo, límites de velocidad) y de seguridad vial (cascos, buen estado del vehículo, etc) y entre los adultos, igualmente, el respeto de las normas de tránsito: cruzar las vías por las zonas demarcadas, respetar los semáforos en rojo, entre otras y algunas respecto a la seguridad personal, como no andar solo por vías muy concurridas, usar los puentes peatonales, evitar cruzar vías en horas de la noche, etc.
+De la tabla anterior, se puede notar que de las víctimas en moto el 50% eran adolescentes y jóvenes, entre 12 y 28 años y de las víctimas peatones, el 84% eran adultos y ancianos, personas mayores de 29 años. Dos hechos a tener presentes al momento de tomar acciones para prevenir y disminuir los accidentes viales.
 
 
 
