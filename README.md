@@ -86,7 +86,7 @@ TABLA 1. TOTAL VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA, POR AÑO Y MEDIO DE TR
 <img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/TABLA05.png">
 </p>
 
-La tabla anterior muestra un fenómeno a tener presente, y es el alto volumen de muertes en accidentes de transito de quienes viajan en moto año tras año, y aunque se ha presentado una disminución en los últimos 3 años, es muy similar al decremento global, por lo que se puede seguir considerando a las motos como un vehículo de alto riesgo a la hora de un accidente de tránsito.
+La tabla anterior muestra un fenómeno a tener presente, y es el alto volumen de muertes en accidentes de transito de quienes viajan en moto, año tras año, y aunque se ha presentado una disminución en los últimos 3 años, muy similar al decremento global, se puede seguir considerando a las motos como un vehículo de alto riesgo de muerte a la hora de un accidente de tránsito.
 
 Continuando con el análisis, se puede ver que los meses de noviembre, diciembre y enero son los de mayor concentración de las muertes, coincidencialmente época de verano, vacaciones:
 
@@ -94,7 +94,7 @@ Continuando con el análisis, se puede ver que los meses de noviembre, diciembre
 <img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/muertes_mes.png">
 </p>
 
-Y analizando por el vehículo donde se transportaba la víctima, los meses de diciembre y enero son los que presentan mayor cantidad de accidentes mortales en moto, 73 de 280, que representan el 26% de las muertes en moto. Esto es una alerta para las autoridades respectivas, para que ejerzan un mayor control a los motociclistas en dicho periodo y que tengan en buen estado las vías más frecuentadas por ellos.
+Y analizando por el vehículo donde se transportaba la víctima, los meses de diciembre y enero son los que presentan mayor cantidad de accidentes mortales en moto (ver tabla 2), 73 de 280, que representan el 26% de las muertes en moto. Esto debe es una alerta para las autoridades respectivas, para que ejerzan un mayor control a los motociclistas y que velen por tener en buen estado las vías más frecuentadas por ellos.
 
 <p align='center'>
 TABLA 2. TOTAL VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA, ENTRE 2016-2021, DIFERENCIAS POR MES Y MEDIO DE TRANSPORTE
