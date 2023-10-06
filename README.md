@@ -94,7 +94,7 @@ Continuando con el análisis, se puede ver que los meses de noviembre, diciembre
 <img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/muertes_mes.png">
 </p>
 
-Y analizando por el vehículo donde se transportaba la víctima, los meses de diciembre y enero son los que presentan mayor cantidad de accidentes mortales en moto (ver tabla 2), 73 de 280, que representan el 26% de las muertes en moto. Esto debe es una alerta para las autoridades respectivas, para que ejerzan un mayor control a los motociclistas y que velen por tener en buen estado las vías más frecuentadas por ellos.
+Y analizando por el vehículo donde se transportaba la víctima, el periodo entre noviembre y enero presenta la mayor cantidad de accidentes mortales en moto (ver tabla 2), 95 de 280, que representa el 34% de las muertes en moto. Esto debe es una alerta para las autoridades respectivas, para que ejerzan un mayor control a los motociclistas y que velen por tener en buen estado las vías más frecuentadas por ellos.
 
 <p align='center'>
 TABLA 2. TOTAL VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA, ENTRE 2016-2021, DIFERENCIAS POR MES Y MEDIO DE TRANSPORTE
