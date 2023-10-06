@@ -148,7 +148,8 @@ Analizando los siniestros por el tipo de vía en la que se presentaron los casos
 </p>
 
 <p align='center'>
-TABLA 5. TOTAL VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA, ENTRE 2016-2021, POR EL TIPO DE CALLE DEL SINIESTRO</P>
+TABLA 5. TOTAL VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA, ENTRE 2016-2021, POR EL TIPO DE CALLE DEL SINIESTRO
+</P>
 <p align='center'>
 <img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/TABLA07.png">
 </p>
