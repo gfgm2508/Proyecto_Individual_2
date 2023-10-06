@@ -169,9 +169,16 @@ TABLA 6. VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA POR CICLO DE VIDA, ENTRE 2016
 <img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/TABLA04.png">
 </p>
 
-De la tabla anterior, se puede notar que de las víctimas en moto el 50% eran adolescentes y jóvenes, entre 12 y 28 años y de las víctimas peatones, el 84% eran adultos y ancianos, personas mayores de 29 años. Dos hechos a tener presentes al momento de tomar acciones para prevenir y disminuir los accidentes viales.
+De la tabla anterior, se puede notar que del total de víctimas mujeres, el 80%, 124 de 155, eran adultas y ancianas (personas mayores de 29 años), mientras que el 62% de las víctimas hombres, eran jóvenes y adultos (entre 29 y 59 años), que viajaban en moto mayotitariamente. Adicionalmente, podemos observar que el mayor porcentaje de mujeres fallecidas en accidentes viales eran peatonas, mayores de 29 años (adultas y ancianas).
 
+La tabla 7 muestra la distribución de las muertes por sexo, ciclo de vida y horario del accidente, es interesante ver que entre las mujeres no hay diferenciación entre horarios, lo que indica que una mujer puede morir en un accidente de tránsito en cualquier jornada del día, caso contrario los hombres, que del total de fallecidos el 50% muere en accidentes ocurridos en la noche, entre 6pm y 6am, y por ciclos de vida, los hombres adultos son los de mayor probabilidad de morir a cualquier hora.
 
+<p align='center'>
+TABLA 7. VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA POR SEXO, CICLO DE VIDA Y HORARIO DEL ACCIDENTE, ENTRE 2016-2021.
+</P>
+<p align='center'>
+<img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/TABLA08.png">
+</p>
 
 De lo anterior, se pueden sacar recomendaciones importantes:
 
