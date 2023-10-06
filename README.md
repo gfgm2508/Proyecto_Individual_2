@@ -122,13 +122,13 @@ A continuación ae presenta un análisis por algunas carecterísticas particular
 
 **Componente georreferencial**
 
-Georreferenciando los accidentes de tránsito mortales, no se detectan concentraciones fuertes en algunos puntos, sino más bien se demarcan puntos sobre algunas vías, como se puede observar en la siguiente gráfica:
+Georreferenciando los accidentes de tránsito mortales, se detectaronn 4 zonas de alta concentración de accidentes fatales, la más grande la zona e la que colindan las comunas 1 y 3, la zona occidental de la comuna 4, la parte centrel de la comuna 7 y la zona noroccidental de la comuna 9, otra alerta para las autoridades en su tarea de disminuir la accidentalidad vehicular así como la mortalidad derivada, sería recomendable visitar dichas áreas para verificar el estado de las vías, la calidad y oportunidad de las señales de tránsito, la semaforización, entre otras:
 
 <p align='center'>
 <img src="_src/assets/mapa.JPG">
 </p>
 
-La zona de puntos púrpura corresponde a la Comuna 1, que de hecho, es la que mayores accidentes mortales presentó:
+Presentado el total por comunas, es evidente el alto volumen de casos en las comunas 1, 4 y 9
 
 <p align='center'>
 <img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/muertes_comuna.png">
