@@ -86,7 +86,9 @@ TABLA 1. TOTAL VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA, POR AÑO Y MEDIO DE TR
 <img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/TABLA05.png">
 </p>
 
-La tabla anterior muestra un fenómeno a tener presente, y es el alto volumen de muertes en accidentes de transito de quienes viajan en moto año tras año, y aunque se ha presentado una disminución en el último trimestre, es muy similar al decremento global, por lo que se puede seguior considerando a las motos en un vehículo de alto riesgo a la hora de un accidente de tránsito. Continuando con el análisis, se puede ver que los meses de noviembre, diciembre y enero son los de mayor concentración de las muertes, coincidencialmente época de verano, vacaciones:
+La tabla anterior muestra un fenómeno a tener presente, y es el alto volumen de muertes en accidentes de transito de quienes viajan en moto año tras año, y aunque se ha presentado una disminución en los últimos 3 años, es muy similar al decremento global, por lo que se puede seguir considerando a las motos como un vehículo de alto riesgo a la hora de un accidente de tránsito.
+
+Continuando con el análisis, se puede ver que los meses de noviembre, diciembre y enero son los de mayor concentración de las muertes, coincidencialmente época de verano, vacaciones:
 
 <p align='center'>
 <img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/muertes_mes.png">
