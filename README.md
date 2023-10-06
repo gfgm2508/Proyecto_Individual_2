@@ -97,7 +97,7 @@ Continuando con el análisis, se puede ver que los meses de noviembre, diciembre
 Y analizando por el vehículo donde se transportaba la víctima, los meses de diciembre y enero son los que presentan mayor cantidad de accidentes mortales en moto, 73 de 280, que representan el 26% de las muertes en moto. Esto es una alerta para las autoridades respectivas, para que ejerzan un mayor control a los motociclistas en dicho periodo y que tengan en buen estado las vías más frecuentadas por ellos.
 
 <p align='center'>
-TABLA 1. TOTAL VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA, ENTRE 2016-2021, DIFERENCIAS POR MES Y MEDIO DE TRANSPORTE
+TABLA 2. TOTAL VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA, ENTRE 2016-2021, DIFERENCIAS POR MES Y MEDIO DE TRANSPORTE
 </P>
 <p align='center'>
 <img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/TABLA03.png">
@@ -106,7 +106,7 @@ TABLA 1. TOTAL VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA, ENTRE 2016-2021, DIFER
 Construyendo un perfil para caracterizar a las diferentes víctimas, la siguiente tabla puede brindar información relevante:
 
 <p align='center'>
-TABLA 1. TOTAL VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA, ENTRE 2016-2021, DIFERENCIAS POR SEXO, ROL Y MEDIO DE TRANSPORTE
+TABLA 3. TOTAL VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA, ENTRE 2016-2021, DIFERENCIAS POR SEXO, ROL Y MEDIO DE TRANSPORTE
 </P>
 <p align='center'>
 <img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/TABLA02.png">
@@ -123,6 +123,25 @@ De lo anterior, se pueden sacar conclusiones importantes:
 - La población más vulnerable a morir en un accidente de tránsito son los hombres, no importanto el rol que desempeñen en el accidente, y con mayor probabilidad si conducen una moto, por lo que la tarea de las autoridades se debe intensificar en esa población, ejerciendo mayores controles a los motociclistas, con retenes de control, obligatoriedad de los sistemas de seguridad personal como el uso del casco, chalecos reflectivos, exigencia de una revisión tecnico-mecánico periódica a las motos, cursos de reforzamiento sobre las leyes de tránsito, tener en buen estado y bien señaladas las vías principales y alternas y con semáforos funcionando al 100% siempre.
 - Entre las mujeres, preocupa la alta tasa de muertes como peatonas, por lo que se debe intensificar jornadas pedagógicas para mejorar el comportamiento de ellas y todos, como el respeto de los semáforos, cruzar las vías solo por las zonas delimitadas y los puentes peatonales, evitar camimar cerca a vías de alto tráfico en horas de la noche y si es necesario hacerlo, llevar elementos de serguridad como chalecos reflectivos y para los mayores de edad, ir acompañados.
 
+<p align='center'>
+<img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/muertes_comuna.png">
+</p>
+
+<p align='center'>
+TABLA 3. TOTAL VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA, ENTRE 2016-2021, DIFERENCIAS POR COMUNA Y ROL DE LA VICTIMA
+</P>
+<p align='center'>
+<img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/TABLA06.png">
+</p>
+
+Las comunas donde se han presentado más sniestros viales son la 1, 4 y 9, con alrededor del 35% de las víctimas. Adicionalmente, las comunas 1 y 4 tienen el 33% de las muertes de peatones y las comunas 1, 4, 9, 8 y 7, el 50% de las muertes de conductores. Las autoridades locales deben tomas medidas al respecto, evaluando el estado de las vías, puentes, intersecciones, la señalización de vías, la semaforización, si no se hace, ejercer controles de velocidad en tramos de las vías determinados, y tambien velar porque los conductores de vehículos tengan en buen estado sus vehículos y cumplan con las normas de tránsito y de seguridad. Además de campañas educativas a los peatones, para que cuiden las normas de tránsito y su seguridad personal. así como del cuidado del anciano, que son la mayoría de las víctimas peatones. 
+
+<p align='center'>
+<img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/muertes_calle.png">
+</p>
+
+Aunque en las avenidas se presentán la mayorías de los siniestros viales, no deja de llamar la atención el 9% de accidentes presentados en la Gral. Paz, una vía conocida por al alto tráfico vehicular, con tramos que pueden albergar hasta 300.000 vehículos por día.
+
 Relizando un análisis por ciclos de vida, se ve lo siguiente:
 
 <p align='center'>
@@ -130,6 +149,8 @@ Relizando un análisis por ciclos de vida, se ve lo siguiente:
 </p>
 
 El 3% del total de muertes es comprendido por los infantes, niños y adolescentes, que aunque no es muy alto, es para tener presente, generando comunicaciones para reforzar el uso adecuado de los vehículos (cantidad de pasajeros), el uso de los sistemas de seguridad (cinturos de seguridad, cascos, etc), buen estado de los vehículos (frenos, luces, airbag, motor, etc), respeto de las señales de tránsito, buen estado de las vías (pavimentadas, señalización, limpieza de la calzada, etc).
+
+
 
 <p align='center'>
 TABLA 2. VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA POR CICLO DE VIDA, ENTRE 2016-2021.
@@ -140,15 +161,8 @@ TABLA 2. VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA POR CICLO DE VIDA, ENTRE 2016
 
 De la tabla anterior, se puede notar que de las víctimas en moto el 50% eran adolescentes y jóvenes, entre 12 y 28 años y de las víctimas peatones, el 84% eran adultos y ancianos, mayores de 29 años. Dos hechos a tener presente al momento de tomar acciones para prevenir y disminuir los accidentes viales, hacia los jóvenes pueden ser campañas recalcando el importancia del respeto de las normas de tránsito (semáforos en rojo, límites de velocidad) y de seguridad vial (cascos, buen estado del vehículo, etc) y entre los adultos, igualmente, el respeto de las normas de tránsito: cruzar las vías por las zonas demarcadas, respetar los semáforos en rojo, entre otras y algunas respecto a la seguridad personal, como no andar solo por vías muy concurridas, usar los puentes peatonales, evitar cruzar vías en horas de la noche, etc.
 
-<p align='center'>
-<img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/muertes_comuna.png">
-</p>
 
-<p align='center'>
-<img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/muertes_calle.png">
-</p>
 
-Aunque en las avenidas se presentán la mayorías de los siniestros viales, no deja de llamar la atención el 9% de accidentes presentados en la Gral. Paz, una vía conocida por al alto tráfico vehicular, con tramos que pueden albergar hasta 300.000 vehículos por día.
 
 
 
