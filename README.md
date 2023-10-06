@@ -125,7 +125,7 @@ A continuación ae presenta un análisis por algunas carecterísticas particular
 Georreferenciando los accidentes de tránsito mortales, no se detectan concentraciones fuertes en algunos puntos, sino más bien se demarcan puntos sobre algunas vías, como se puede observar en la siguiente gráfica:
 
 <p align='center'>
-<img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/mapa.JPG">
+<img src="_src/assets/mapa.JPG">
 </p>
 
 La zona de puntos púrpura corresponde a la Comuna 1, que de hecho, es la que mayores accidentes mortales presentó:
