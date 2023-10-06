@@ -120,7 +120,7 @@ TABLA 3. TOTAL VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA, ENTRE 2016-2021, DIFER
 
 A continuación ae presenta un análisis por algunas carecterísticas particulares, relevantes para detectar focos de acción:
 
-# **Componente georreferencial**
+**Componente georreferencial**
 
 <p align='center'>
 <img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/muertes_comuna.png">
