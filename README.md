@@ -198,17 +198,30 @@ TABLA 9. VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA POR CICLO DE VIDA Y COMUNA EN
 <img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/TABLA09.png">
 </p>
 
-De lo anterior, se pueden sacar recomendaciones importantes:
+**Recomendaciones**
 
-- La población más vulnerable a morir en un accidente de tránsito son los hombres, no importanto el rol que desempeñen en el accidente, y con mayor probabilidad si conducen una moto, por lo que la tarea de las autoridades se debe intensificar en esa población, ejerciendo mayores controles a los motociclistas, con retenes de control, obligatoriedad de los sistemas de seguridad personal como el uso del casco, chalecos reflectivos, exigencia de una revisión tecnico-mecánico periódica a las motos, cursos de reforzamiento sobre las leyes de tránsito, tener en buen estado y bien señaladas las vías principales y alternas y con semáforos funcionando al 100% siempre.
-- Entre las mujeres, preocupa la alta tasa de muertes como peatonas, por lo que se debe intensificar jornadas pedagógicas para mejorar el comportamiento de ellas y todos, como el respeto de los semáforos, cruzar las vías solo por las zonas delimitadas y los puentes peatonales, evitar camimar cerca a vías de alto tráfico en horas de la noche y si es necesario hacerlo, llevar elementos de serguridad como chalecos reflectivos y para los mayores de edad, ir acompañados.
+- Para el Observatorio, queda un buena cantidad de alertas en pro de diseñar medidas, pedagógicas, legales, policiales, que permitirán reducir la accidentalidad así como la mortalidad por accidentes de tránsito en CABA. Es claro, que debido a la pandemia se dictaminaron ciertas normas que lograron reducir considerablemente la mortandad en los accidentes viales, sería bueno revisarlas y mejorar las que sean pertinentes, enfoncándose em los hombres, conductores de moto, también un cuidado especial a los peatones y en algunas zonas de la ciudad que albergan un número considerable de accidentes mortales. 
 
+## **`KPIs`**
 
+    - *Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior*
 
+De acuerdo al censo nacional, CABA cuenta con 3.120.3612 habitantes, las víctimas en accidentes de tránsito en el segundo y primer semestrte de 2021 fjueron de 41 y 42, por lo que la tasa de homicidios en siniestros viales en el segundo semestrte del año 2021 fue del 1.31 x 100.000 habitantes, la del primer semestre de ese mismo año fue del 1.67 x 100.000 habitantes, por lo que la redución de la tasa de homicidios fue del 21%, concluyéndose que la entidad rectora cumplió a cabalidad la meta propuesta, las acciones y*o políticas implementadas fueron efectivas.
+ 
+    - *Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior*
 
+En el año 2020, el número de accidentes mortales de motociclistas fue de 27, y del año 2021 de 46 (ver tabla 10):
 
+<p align='center'>
+TABLA 10. VICTIMAS DE ACCIDENTE DE TRANSITO EN CABA POR AÑO.
+</P>
+<p align='center'>
+<img src="https://github.com/gfgm2508/Proyecto_Individual_2/blob/main/_src/assets/TABLA11.png">
+</p>
 
+Por lo que la tasa solicitada, sería igual a:
 
+Tasa = (27-46)/27 * 100 = (-19)/27 * 100 = -70.37%
 
 
 
