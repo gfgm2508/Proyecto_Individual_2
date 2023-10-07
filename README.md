@@ -223,5 +223,15 @@ Por lo que la tasa solicitada, sería igual a:
 
 Tasa = (27-46)/27 * 100 = (-19)/27 * 100 = -70.37%
 
+La meta no se logró, por lo que la entidad de revisar las acciones y políticas implementadas para hacerr los ajustes pertinentes y llegar las cifras esperadas de homicidios en accidentes de tránsito de motociclistas en CABA.
 
+    - *Reducir en un 10% el porcentaje de accidentes mortales de tránsito en los que está involucrado un peatón en el último año, en CABA, respecto al año anterior*
+
+ La estructura de cálculo es: Número de accidentes de tránsito mortales con peatón involucrado en la ciudad sobre Número total de accidentes de la ciudad * 100
+
+ Para el año 2021, las muertes de peatones en la accidentes de tránsito fue de 29 víctimas y en 2020 fue de 32 (ver tabla 10), y el total de accidentes mortales en 2021 fue de 93 y en 2020, de 75 víctimas, por lo que las dos indicadores serían iguales a:
+
+(AP2021 - AP2020)/TM2020 = (29 - 32)/75 = -3/75 = -42.67%
+
+Resultado que muestra una reducción considerable del número de accidentes de tránsito con peatón involucrado entre los alños 2020 y 2021
 
