@@ -235,3 +235,12 @@ La meta no se logró, por lo que la entidad de revisar las acciones y políticas
 
 Resultado que muestra una reducción considerable del número de accidentes de tránsito con peatón involucrado entre los alños 2020 y 2021
 
+## **APOYOS TECNOLÓGICOS**
+
+Para dar solcuión al requerimiento recibido, se hizo uso de las herramientas tecnológicas: Python, Microsoft Excel, IBM SPSS y Power BI Desktop.
+
+## **CONTACTO**
+
+Correo electrónico: gfgm2001@yahoo.com
+Número celular: (57)32188661147
+
