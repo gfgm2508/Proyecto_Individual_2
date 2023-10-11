@@ -241,6 +241,9 @@ Para dar solcuión al requerimiento recibido, se hizo uso de las herramientas te
 
 ## **CONTACTO**
 
+Gabriel Fernando Gutiérrez Medina
+Data Analytics
+Estadístico
 Correo electrónico: gfgm2001@yahoo.com
 Número celular: (57)32188661147
 
