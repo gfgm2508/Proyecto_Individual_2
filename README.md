@@ -237,7 +237,7 @@ Resultado que muestra una reducción considerable del número de accidentes de t
 
 ## **APOYOS TECNOLÓGICOS**
 
-Para dar solcuión al requerimiento recibido, se hizo uso de las herramientas tecnológicas: Python, Microsoft Excel, IBM SPSS y Power BI Desktop.
+Para dar solución al requerimiento recibido, se hizo uso de las siguientes herramientas tecnológicas: Python, Microsoft Excel, IBM SPSS y Power BI Desktop.
 
 ## **CONTACTO**
 
